@@ -1,4 +1,4 @@
-# ImageProcessing
+# image-processing
 ## A compilation of jupyter notebooks containing many topics related to image manipulation
 
 The repository doesn't contain any structured project and its aim is to be used as a study material and 
